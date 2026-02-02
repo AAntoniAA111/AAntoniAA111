@@ -6,7 +6,9 @@ Tenho 19 anos e sou de Belo Horizonte, Minas Gerais. Atualmente estou cursando T
 
 ## 🚀 Tecnologias que estou estudando
 
-- **Python** 🐍
+- **Python**🐍
+- **Java** ☕
+- **JavaScript**
 - **HTML** 🌐
 - **CSS** 🎨
 
